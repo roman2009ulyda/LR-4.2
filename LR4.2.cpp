@@ -16,7 +16,7 @@ int main()
 	x = xp;
 	while (x <= xk)
 	{
-		A =abs(9*pow(x,2)+2);
+		A =abs(9*pow(x,3)+2);
 		if (x < 4)
 			B = 3*pow(x,5)-pow(x,3)+2*x-1;
 		else
